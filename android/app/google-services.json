@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830607234796",
+    "firebase_url": "https://gk-quiz-500b9.firebaseio.com",
+    "project_id": "gk-quiz-500b9",
+    "storage_bucket": "gk-quiz-500b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830607234796:android:85b410a7dfd0e4fd3b37c9",
+        "android_client_info": {
+          "package_name": "instant.generalknowledge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830607234796-6qhhimd941snbem27m4gv3k6d4eh69ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNtKhErGTgHR9e0_ejiznaaFJiIG97HY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830607234796-6qhhimd941snbem27m4gv3k6d4eh69ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
